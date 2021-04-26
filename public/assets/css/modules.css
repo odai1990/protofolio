@@ -108,3 +108,11 @@
   .icon > .label {
     display: none;
   }
+
+  .background
+  {
+    background-image: url('../../images/ggggg.gif') !important;
+  }
+  .container header{
+    color: white !important;
+  }
